@@ -1,5 +1,8 @@
 # Daegu Apartment Regression Model
 
+### Description
+This project focuses on predicting apartment prices in Daegu using machine learning. Given the challenges in Daegu's real estate market, particularly the high number of unsold apartment units, the goal is to develop an accurate price prediction model. This model aims to provide realistic price estimates, ensure housing affordability, support property owners in setting competitive prices, and help stabilize the local market. We employed various regression models, including Random Forest and Stacking Regressor, and used metrics like RMSE and Adjusted R² to evaluate their performance. Ultimately, the project aims to assist real estate stakeholders by offering valuable insights into apartment pricing
+
 ### Business Understanding
 ---
 [Daegu](https://en.wikipedia.org/wiki/Daegu) is South Korea's third-largest urban agglomeration after Seoul and Busan, the third-largest official metropolitan area in the country with over 2.5 million residents and the second-largest city in the Yeongnam region in the southeastern Korean Peninsula after Busan. However, the real estate market in Daegu faces significant challenges due to an increasing number of unsold apartment units
